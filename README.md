@@ -1,7 +1,7 @@
 # Fair-Lloyd-algorithm
 Matlab implementation of the Fair-Lloyd algorithm. Description of the files:
 
-Folder: Fair Lloyd’s
+Folder: Fair-Lloyd
 
 	a.	load and pre-rpocess the data
 
@@ -14,10 +14,10 @@ Folder: Fair Lloyd’s
 	•	optApprox (subroutine for mw): finds the optimal rank-d approximation of a given matrix
 	•	re (subroutine for mw): calculates reconstruction error of a matrix
 
-	b.	Fair Lloyd’s 
+	b.	Fair-Lloyd
 
 
-	•	lloyd: implementation of lloyd’s and Fair-lloyd algorithm (look below for subroutines)
+	•	lloyd: implementation of lloyd’s and Fair-Lloyd algorithm (look below for subroutines)
 	•	giveRandCenters: generate initial random centres
 	•	findCenters: given a clustering, find the centers
 	•	findClustering: given a set of centers, find the clustering

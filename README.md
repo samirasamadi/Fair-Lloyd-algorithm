@@ -32,6 +32,8 @@ Folder: Fair-Lloyd
 Folder: plotsCode
 
 	•	plotting the results using the output data by Fair-Lloyd and Lloyd’s
+	
+You can download the resultsData folder from https://drive.google.com/file/d/1d2ChCuUHRpTFjPeAvHnsiw0mkP359WI3/view?usp=sharing
 
 
 
